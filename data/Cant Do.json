@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/IvXyX5Nb3qE",
     "percentToQualify": 100,
     "password": "Copyable",
-    "records": []
+    "records": [
+        {
+            "user": "ari",
+            "link": "https://www.youtube.com/watch?v=dfp5lQ_QXL8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
